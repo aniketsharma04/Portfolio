@@ -4,6 +4,5 @@
   "outputDirectory": "build",
   "framework": "create-react-app",
   "installCommand": "npm install",
-  "devCommand": "npm start",
-  "rootDirectory": "portfolio"
+  "devCommand": "npm start"
 }
